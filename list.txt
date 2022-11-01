@@ -1,0 +1,6 @@
+Rouhullah	[AddPurchaseReturnView,AddPurchaseView,AddSalesReturnView]
+Ahsanullah	[AddSalesView.fxml,EditPurchaseReturnView.fxml,EditPurchaseView.fxml]
+samiullah	[EditSalesReturnView.fxml,EditSalesView.fxml,ListPurchaseReturnView.fxml]
+khan M		[ ListPurchaseView.fxml, ListSalesReturnView.fxml,ListSalesView.fxml ]
+abdul bashir	[--------------------------------------------------------------------]
+
