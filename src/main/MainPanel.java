@@ -25,7 +25,6 @@ public class MainPanel extends Application {
         
 //        Parent root = FXMLLoader.load(getClass().getResource("/view/LoginView.fxml"));
         Scene scene = new Scene(root);
-       
         
         stage.setScene(scene);
         stage.setTitle("Store POS - Powered by AhmadGUl");
@@ -33,7 +32,7 @@ public class MainPanel extends Application {
         stage.show();
     }
 
-    /**
+    /** this file is update
      * @param args the command line arguments
      */
     public static void main(String[] args) {
