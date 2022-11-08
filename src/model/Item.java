@@ -15,7 +15,7 @@ public class Item {
         this.item = item;
         this.uom = uom;
         this.quantity = quantity;
-        this.price = price;
+        this.price=price;
         this.amount = amount;
         this.location = location;
         this.itemId = itemId;
