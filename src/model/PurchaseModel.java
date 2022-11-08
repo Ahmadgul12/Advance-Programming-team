@@ -91,7 +91,7 @@ public class PurchaseModel {
     }
 
     public void setOtherAmount(float otherAmount) {
-        this.otherAmount = otherAmount;
+        this.otherAmount = otherAmo;
     }
 
     public void setTotalPaybleAmount(float totalPaybleAmount) {
